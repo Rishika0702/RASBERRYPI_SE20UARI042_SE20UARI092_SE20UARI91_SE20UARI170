@@ -1,0 +1,82 @@
+{
+  "Humidity": 71,
+  "Status": {
+    "-NfFdSy59z5nCU6Q4SJ2": {
+      "Humidity": 68,
+      "Temperature": 29
+    },
+    "-NfFdTa3WkHaZW6WlxXs": {
+      "Humidity": 68,
+      "Temperature": 29
+    },
+    "-NfFdU7Ks7QmU1wEvw2Y": {
+      "Humidity": 68,
+      "Temperature": 29
+    },
+    "-NfFdVJVZlAjSN1dkxhE": {
+      "Humidity": 70,
+      "Temperature": 29
+    },
+    "-NfFdVrIlS9O4MTax0oE": {
+      "Humidity": 70,
+      "Temperature": 29
+    },
+    "-NfFdWS9m6GV49gKTUVA": {
+      "Humidity": 71,
+      "Temperature": 29
+    },
+    "-NfFdWz9TSxPERZyWpT3": {
+      "Humidity": 72,
+      "Temperature": 29
+    },
+    "-NfFdXXS8c7yRhKjOR4B": {
+      "Humidity": 71,
+      "Temperature": 30
+    },
+    "-NfFdY3BdHINhxOyoisJ": {
+      "Humidity": 71,
+      "Temperature": 30
+    },
+    "-NfFdY_jsYOVlFwEXBud": {
+      "Humidity": 72,
+      "Temperature": 30
+    },
+    "-NfFdZ6YsB2z1a2GkF-a": {
+      "Humidity": 72,
+      "Temperature": 30
+    },
+    "-NfFdZdxwEnKbBA-vZve": {
+      "Humidity": 72,
+      "Temperature": 30
+    },
+    "-NfFd_Axbg1to-DeRT0Z": {
+      "Humidity": 72,
+      "Temperature": 31
+    },
+    "-NfFd_i0R5CDQXpxPpC8": {
+      "Humidity": 71,
+      "Temperature": 31
+    },
+    "-NfFdaFUJ2qtw0TNSzXM": {
+      "Humidity": 71,
+      "Temperature": 31
+    },
+    "-NfFdamv45OBGonvrENP": {
+      "Humidity": 71,
+      "Temperature": 31
+    },
+    "-NfFdbJXGhOCz29IC8vw": {
+      "Humidity": 71,
+      "Temperature": 31
+    },
+    "-NfFdbpz-u16GZ0qbPVr": {
+      "Humidity": 71,
+      "Temperature": 31
+    },
+    "-NfFdcMVYgWnQlkG9roQ": {
+      "Humidity": 71,
+      "Temperature": 31
+    }
+  },
+  "Temperature": 31
+}
