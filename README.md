@@ -1,5 +1,10 @@
 # RASBERRYPI_SE20UARI042_SE20UARI092_SE20UARI91_SE20UARI170
 
+#### Akshatha Chavata -SE20UARI042
+#### Manmitha Polsani-SE20UARI092
+#### Mahathi Nallamashetty - SE20UARI091
+#### Yelldha Rishika -SE20UARI170
+
 # Raspberry Pi Temperature and Humidity Sensor Project
 
 This project enables you to collect temperature and humidity data using a Raspberry Pi and a DHT11 sensor.
